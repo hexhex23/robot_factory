@@ -2,7 +2,22 @@
 Robot
   Initialization
 [32m    should create new robot with name[0m
+  Reset
+[31m    should create new name for robot (FAILED - 1)[0m
 
-Finished in 0 seconds (files took 0.26209 seconds to load)
-[32m1 example, 0 failures[0m
+Failures:
+
+  1) Robot Reset should create new name for robot
+     [31mFailure/Error: r1.reset[0m
+     [31m[0m
+     [31mNoMethodError:[0m
+     [31m  undefined method `reset' for #<Robot:0x3210f00 @name="AB123">[0m
+     [36m# ./spec/robot_spec.rb:15:in `block (3 levels) in <top (required)>'[0m
+
+Finished in 0.00702 seconds (files took 0.32587 seconds to load)
+[31m2 examples, 1 failure[0m
+
+Failed examples:
+
+[31mrspec ./spec/robot_spec.rb:13[0m [36m# Robot Reset should create new name for robot[0m
 
