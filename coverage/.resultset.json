@@ -7,27 +7,16 @@
         1,
         1,
         1,
-        0,
-        null,
         1,
-        1,
-        null,
-        0,
-        null,
-        1,
-        null,
-        0,
-        null,
-        null,
-        null,
         null,
         1,
         1,
         1,
         1,
-        0,
         null,
-        null,
+        1,
+        1,
+        1,
         null,
         null,
         null,
@@ -35,35 +24,40 @@
         1,
         1,
         1,
-        0,
+        1,
         null,
         null,
         null,
         null
       ],
       "C:/Users/jlims/code/wdi/robot_factory/robot.rb": [
-<<<<<<< HEAD
         1,
         1,
         1,
-=======
+        5,
+        5,
+        5,
+        5,
+        10,
+        10,
+        5,
+        5,
+        null,
+        null,
         1,
         1,
         1,
->>>>>>> dcb67081a8b020890230149f3189e8e91e747a10
+        1,
+        1,
         2,
+        2,
+        1,
+        1,
+        null,
         null,
         null
       ]
     },
-<<<<<<< HEAD
-<<<<<<< HEAD
-    "timestamp": 1493177694
-=======
-    "timestamp": 1493177336
->>>>>>> dcb67081a8b020890230149f3189e8e91e747a10
-=======
-    "timestamp": 1493177336
->>>>>>> dcb67081a8b020890230149f3189e8e91e747a10
+    "timestamp": 1493186908
   }
 }

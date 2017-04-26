@@ -2,8 +2,8 @@ require_relative '../robot.rb'
 
 describe Robot do
   before(:context) do
-    @r1 = Robot.new('AB123')
-    @r2 = Robot.new('CD321')
+    @r1 = Robot.new
+    @r2 = Robot.new
   end
   describe 'Initialization' do
     it 'should create new robot with name' do
