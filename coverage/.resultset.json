@@ -1,0 +1,23 @@
+{
+  "RSpec": {
+    "coverage": {
+      "/Users/mariawilson/Documents/code/wdi/robot_factory/spec/robot_spec.rb": [
+        1,
+        null,
+        1,
+        1,
+        1,
+        1,
+        1,
+        null,
+        null,
+        null
+      ],
+      "/Users/mariawilson/Documents/code/wdi/robot_factory/robot.rb": [
+        1,
+        null
+      ]
+    },
+    "timestamp": 1493173541
+  }
+}
