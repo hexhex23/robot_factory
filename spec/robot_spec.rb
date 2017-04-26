@@ -15,7 +15,7 @@ describe Robot do
       expect(r1.name).not_to eql(r2.name)
     end
   end
-  
+
   describe 'Reset' do
     it 'should create new name for robot' do
       r1 = Robot.new
